@@ -32,3 +32,6 @@ Mini-FAQ in german:
         installiert ist einfach "CsvToMT940.jar" starten oder unter Windows die Datei
         "start.bat" ausführen.
 ```
+
+## License
+MIT
